@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ProgressView,仿iReader进度条效果 -->
+    <declare-styleable name="ProgressView">
+        <attr name="text" format="string"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="backgroundColor" format="color"/>
+        <attr name="progress" format="integer"/>
+        <attr name="maxProgress" format="integer"/>
+        <attr name="progressColor" format="color"/>
+    </declare-styleable>
+
+</resources>
